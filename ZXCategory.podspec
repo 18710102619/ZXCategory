@@ -18,6 +18,10 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
-  s.source_files     = 'ZXCategory/**/*'
+  s.subspec 'Category' do |category|
+      category.source_files = "ZXCategory/Category/**/*.{h,m,mm,c,cc,cpp}"
+  end
+
+  #s.source_files     = 'ZXCategory/**/*'
 
 end
