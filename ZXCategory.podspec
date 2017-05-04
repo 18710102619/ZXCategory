@@ -22,8 +22,4 @@ Pod::Spec.new do |s|
     ss.source_files = 'ZXCategory/Category/*.{h,m}'
   end
 
-  s.subspec 'Network' do |ss|
-    ss.source_files = 'ZXCategory/Network/*.{h,m}'
-  end
-
 end
