@@ -9,6 +9,13 @@ Pod::Spec.new do |s|
                    Custom Category used on iOS, which implement by Objective-C.
                    DESC
 
+  s.license      = {
+    :type => 'LICENCE',
+    :text => <<-LICENSE
+
+    LICENSE
+  }
+
   s.homepage     = "https://github.com/18710102619/ZXCategory"
   s.license      = "MIT"
   s.author       = { "张玲玉" => "2949820345@qq.com" }
