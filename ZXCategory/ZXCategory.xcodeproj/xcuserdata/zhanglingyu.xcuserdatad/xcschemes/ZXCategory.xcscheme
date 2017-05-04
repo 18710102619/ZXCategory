@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "36CC69241EBB0F630041ECC8"
-               BuildableName = "Category.app"
-               BlueprintName = "Category"
-               ReferencedContainer = "container:Category.xcodeproj">
+               BlueprintIdentifier = "36CC69631EBB16A90041ECC8"
+               BuildableName = "ZXCategory.app"
+               BlueprintName = "ZXCategory"
+               ReferencedContainer = "container:ZXCategory.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "36CC693D1EBB0F630041ECC8"
-               BuildableName = "CategoryTests.xctest"
-               BlueprintName = "CategoryTests"
-               ReferencedContainer = "container:Category.xcodeproj">
+               BlueprintIdentifier = "36CC697C1EBB16A90041ECC8"
+               BuildableName = "ZXCategoryTests.xctest"
+               BlueprintName = "ZXCategoryTests"
+               ReferencedContainer = "container:ZXCategory.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "36CC69481EBB0F630041ECC8"
-               BuildableName = "CategoryUITests.xctest"
-               BlueprintName = "CategoryUITests"
-               ReferencedContainer = "container:Category.xcodeproj">
+               BlueprintIdentifier = "36CC69871EBB16A90041ECC8"
+               BuildableName = "ZXCategoryUITests.xctest"
+               BlueprintName = "ZXCategoryUITests"
+               ReferencedContainer = "container:ZXCategory.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "36CC69241EBB0F630041ECC8"
-            BuildableName = "Category.app"
-            BlueprintName = "Category"
-            ReferencedContainer = "container:Category.xcodeproj">
+            BlueprintIdentifier = "36CC69631EBB16A90041ECC8"
+            BuildableName = "ZXCategory.app"
+            BlueprintName = "ZXCategory"
+            ReferencedContainer = "container:ZXCategory.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "36CC69241EBB0F630041ECC8"
-            BuildableName = "Category.app"
-            BlueprintName = "Category"
-            ReferencedContainer = "container:Category.xcodeproj">
+            BlueprintIdentifier = "36CC69631EBB16A90041ECC8"
+            BuildableName = "ZXCategory.app"
+            BlueprintName = "ZXCategory"
+            ReferencedContainer = "container:ZXCategory.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "36CC69241EBB0F630041ECC8"
-            BuildableName = "Category.app"
-            BlueprintName = "Category"
-            ReferencedContainer = "container:Category.xcodeproj">
+            BlueprintIdentifier = "36CC69631EBB16A90041ECC8"
+            BuildableName = "ZXCategory.app"
+            BlueprintName = "ZXCategory"
+            ReferencedContainer = "container:ZXCategory.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

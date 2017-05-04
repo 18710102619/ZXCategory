@@ -1,6 +1,6 @@
 //
-//  CategoryTests.m
-//  CategoryTests
+//  ZXCategoryTests.m
+//  ZXCategoryTests
 //
 //  Created by 张玲玉 on 2017/5/4.
 //  Copyright © 2017年 bj.zly.com. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface CategoryTests : XCTestCase
+@interface ZXCategoryTests : XCTestCase
 
 @end
 
-@implementation CategoryTests
+@implementation ZXCategoryTests
 
 - (void)setUp {
     [super setUp];

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Category.xcscheme</key>
+		<key>ZXCategory.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>36CC69241EBB0F630041ECC8</key>
+		<key>36CC69631EBB16A90041ECC8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>36CC693D1EBB0F630041ECC8</key>
+		<key>36CC697C1EBB16A90041ECC8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>36CC69481EBB0F630041ECC8</key>
+		<key>36CC69871EBB16A90041ECC8</key>
 		<dict>
 			<key>primary</key>
 			<true/>

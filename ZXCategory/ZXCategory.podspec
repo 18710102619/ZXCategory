@@ -13,13 +13,13 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "张玲玉" => "2949820345@qq.com" }
   s.platform     = :ios, '8.0'
-
   s.source       = { :git => "https://github.com/18710102619/ZXCategory.git", :tag => s.version }
-
   s.requires_arc = true
 
+  s.exclude_files = "ZXCategory/Resource/**/*.bundle/*","ZXCategory/**/AppDelegate.{h,m}","ZXCategory/**/ViewController.{h,m}","ZXCategory/**/main.{h,m}","ZXCategoryTests","Pods"
+
   s.subspec 'Category' do |category|
-      category.source_files = "Category/**/*.{h,m,mm,c,cc,cpp}"
+      category.source_files = "ZXCategory/Category/**/*.{h,m,mm,c,cc,cpp}"
   end
 
 end
