@@ -25,8 +25,8 @@ Pod::Spec.new do |s|
 
   s.exclude_files = "ZXCategory/Resource/**/*.bundle/*","ZXCategory/**/AppDelegate.{h,m}","ZXCategory/**/ViewController.{h,m}","ZXCategory/**/main.{h,m}","ZXCategoryTests","Pods"
 
-  s.subspec 'Category' do |category|
-      category.source_files = "ZXCategory/Category/**/*.{h,m,mm,c,cc,cpp}"
-  end
+  #s.subspec 'Category' do |category|
+   #   category.source_files = "ZXCategory/Category/**/*.{h,m,mm,c,cc,cpp}"
+  #end
 
 end
