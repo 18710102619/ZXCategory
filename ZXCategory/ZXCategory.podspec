@@ -23,8 +23,8 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/18710102619/ZXCategory.git", :tag => s.version }
   s.requires_arc = true
 
-  #s.exclude_files = "ZXCategory/Resource/**/*.bundle/*","ZXCategory/**/AppDelegate.{h,m}","ZXCategory/**/ViewController.{h,m}","ZXCategory/**/main.{h,m}","ZXCategoryTests","Pods"
+  s.exclude_files = "ZXCategory/Resource/**/*.bundle/*","ZXCategory/**/AppDelegate.{h,m}","ZXCategory/**/ViewController.{h,m}","ZXCategory/**/main.{h,m}","ZXCategoryTests","Pods"
 
-  s.source_files  = "ZXCategory/**/*"
+  s.source_files  = "ZXCategory/**/*.{h,m}"
 
 end
