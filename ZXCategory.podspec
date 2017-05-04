@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/18710102619/ZXCategory"
   s.license      = "MIT"
   s.author       = { "张玲玉" => "2949820345@qq.com" }
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '8.0'
 
   s.source       = { :git => "https://github.com/18710102619/ZXCategory.git", :tag => s.version }
 
